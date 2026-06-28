@@ -8,6 +8,15 @@ El objetivo de este repositorio es documentar mi evolución como Analista de Dat
 
 ---
 
+## 📊 Acceso a los Datasets
+
+Para mantener el repositorio ligero y seguir las buenas prácticas de Ciencia de Datos, los archivos de datos crudos y procesados (`.csv`, `.json`, etc.) no se encuentran alojados directamente en GitHub debido a su peso.
+
+Puedes descargar todos los conjuntos de datos necesarios para replicar los proyectos en el siguiente enlace:
+
+✨ **[Carpeta de Google Drive - Datasets del Bootcamp](https://drive.google.com/drive/folders/1sgRSNUwdljhmPXghVOCq7zZqhJqSzJjY?usp=sharing)**
+
+---
 ## 🚀 Acerca de este portafolio
 
 Durante el Bootcamp desarrollé múltiples proyectos aplicando metodologías de análisis de datos desde la obtención y limpieza de la información hasta la construcción de modelos de Machine Learning.
